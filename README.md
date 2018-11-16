@@ -1,4 +1,6 @@
 # Build An Simple Alexa Skill for beginer - Alexa-Basic-Welcome
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/SuneetPatil/Alexa-Basic-Welcome/blob/master/README.md) 
+
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
 
